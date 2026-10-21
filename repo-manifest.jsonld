@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/falconry/pygments-theme/commit/ba5b169902b80eac086c2d412d5e111920bce5e3",
       "git:hexsha": "ba5b169902b80eac086c2d412d5e111920bce5e3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
